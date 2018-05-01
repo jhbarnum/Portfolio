@@ -5,5 +5,5 @@
 
 
 
-![Portfolio](/portfolio.png)
+![Portfolio](portfolio/portfolio.png)
 
